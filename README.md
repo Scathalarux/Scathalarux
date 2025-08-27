@@ -1,16 +1,36 @@
-## Hi there 👋
+## ¡Hola! 
 
-<!--
-**Scathalarux/Scathalarux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Lara. Soy fisioterapeuta y desarrolladora web gallega.
+Actualmente, estoy complementando de forma autodidacta, mis estudios de DAW para así obtener un perfil más actual y eficiente en cuanto a las necesidades actuales. 
 
-Here are some ideas to get you started:
+- Pronombres: ella
+- Aprendiendo: Python
+- (https://laracv-portfolio.netlify.app/)[Portfolio] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Habilidades
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,java,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,git,vscode,phpstorm,docker,aws,linux,drupal)](https://skillicons.dev)
+
+
+
+***
+
+
+
+## Hi!
+My name is Lara. I'm a Galician physical therapist and web developer.
+Nowadays, I'm completing my high-level technical degree with a autodidactic formation to get an actual and efficient profile according to the actual necessities.
+
+- Pronouns: she
+- Learning: Python
+- (https://laracv-portfolio.netlify.app/)[Portfolio]
+
+
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,java,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,git,vscode,phpstorm,docker,aws,linux,drupal)](https://skillicons.dev)
+
+
+
