@@ -5,7 +5,7 @@ Actualmente, estoy complementando de forma autodidacta, mis estudios de DAW para
 
 - Pronombres: ella
 - Aprendiendo: Python
-- (https://laracv-portfolio.netlify.app/)[Portfolio] 
+- [Portfolio](https://laracv-portfolio.netlify.app/)
 
 # Habilidades
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
@@ -24,7 +24,7 @@ Nowadays, I'm completing my high-level technical degree with a autodidactic form
 
 - Pronouns: she
 - Learning: Python
-- (https://laracv-portfolio.netlify.app/)[Portfolio]
+- [Portfolio](https://laracv-portfolio.netlify.app/)
 
 
 # Skills
